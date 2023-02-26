@@ -11,6 +11,7 @@ html,body{
     width: 1200px;
     margin: 0 auto;
     padding: 0 2%;
+    
 }
 
 .clear{
@@ -22,10 +23,15 @@ html,body{
     width: 100%;
     height: 60px;
     background-color: #212343;
+    
 }
-.header img{
-    margin: 20px;
+.logo{
     width: 120px;
+    height: 60px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url('/imagens/logo.png');
 }
 .container-banner{
     width: 100%;
