@@ -31,7 +31,7 @@ html,body{
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url('/imagens/logo.png');
+   /* background-image: url('/imagens/logo.png');*/
 }
 .container-banner{
     width: 100%;
