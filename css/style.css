@@ -25,13 +25,9 @@ html,body{
     background-color: #212343;
     
 }
-.logo{
+.header img{
+    margin: 20px;
     width: 120px;
-    height: 60px;
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-   /* background-image: url('/imagens/logo.png');*/
 }
 .container-banner{
     width: 100%;
